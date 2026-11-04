@@ -1,0 +1,6 @@
+[submodule "AGH-lab-1"]
+	path = AGH-lab-1
+	url = git@github.com:FeniXb3/AGH-lab-1.git
+[submodule "AGH-lab-2"]
+	path = AGH-lab-2
+	url = git@github.com:FeniXb3/AGH-lab-2.git
